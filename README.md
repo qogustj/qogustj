@@ -5,10 +5,6 @@
 - [![Capstone-Richam](https://img.shields.io/badge/Capstone-Richam-YourColor?style=flat&logo=github&logoColor=white)](https://github.com/Capstone-Richam)
   [![Meetpl](https://img.shields.io/badge/Meetpl-YourColor?style=flat&logo=github&logoColor=white)](https://github.com/Kusitms-28th-MeetUp-C)
 
-<!--
-**qogustj/qogustj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qogustj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qogustj&langs_count=8)](https://github.com/qogustj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qogustj&langs_count=20)](https://github.com/qogustj/github-readme-stats)
 <div align=center>
 
 ## 👦🏻 공부중!
