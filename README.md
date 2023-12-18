@@ -1,22 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요%20잇!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=화이팅%20!&fontSize=90)
+
+
+- 🖥️ I'm a Backend Engineer.
+- 🌏 I'm interested in web development and open source.
+- 📝 I'm currently writing notion
+
 
 ### My Organizations
 
 - [![Capstone-Richam](https://img.shields.io/badge/Capstone-Richam-YourColor?style=flat&logo=github&logoColor=white)](https://github.com/Capstone-Richam)
   [![Meetpl](https://img.shields.io/badge/Meetpl-YourColor?style=flat&logo=github&logoColor=white)](https://github.com/Kusitms-28th-MeetUp-C)
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qogustj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qogustj&langs_count=20)](https://github.com/qogustj/github-readme-stats)
+<!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qogustj&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 <div align=center>
 
 ## 👦🏻 공부중!
