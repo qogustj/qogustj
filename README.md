@@ -9,6 +9,10 @@
 - 📝 노션으로 개발 일지를 작성하고 있습니다
 - 💡 새로운 기술을 배우고 성장하는 것을 좋아합니다
 
+## 🎓 Experience
+
+[2019.03 - 2025.02] 숭실대학교 소프트웨어학부
+
 ## 🏢 Organizations
 [![Capstone-Richam](https://img.shields.io/badge/Capstone-Richam-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Capstone-Richam)
 [![Meetpl](https://img.shields.io/badge/Meetpl-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kusitms-28th-MeetUp-C)
